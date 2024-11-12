@@ -1,1 +1,3 @@
 # BLDC_FOC
+This is an ongoing Brushless DC motor with Field Oriented Control PCB Project.
+Schematic is completed, Working on layout...
